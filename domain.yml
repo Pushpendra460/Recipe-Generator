@@ -1,0 +1,12 @@
+version: "2.0"
+intents:
+  - get_recipe
+entities:
+  - food_item
+responses:
+  utter_ask_food:
+    - text: "Which recipe are you looking for?"
+  utter_no_recipe:
+    - text: "Sorry, I don't have that recipe yet."
+actions:
+  - action_get_recipe

@@ -1,0 +1,6 @@
+version: "2.0"
+rules:
+  - rule: respond to recipe request
+    steps:
+      - intent: get_recipe
+      - action: action_get_recipe

@@ -1,0 +1,10 @@
+{
+  "pasta": {
+    "ingredients": ["pasta", "tomato sauce", "garlic", "olive oil"],
+    "instructions": "Boil pasta. Cook sauce. Mix together."
+  },
+  "omelette": {
+    "ingredients": ["eggs", "onion", "salt", "pepper"],
+    "instructions": "Beat eggs, cook in a pan with onion and spices."
+  }
+}

@@ -1,0 +1,7 @@
+version: "2.0"
+nlu:
+  - intent: get_recipe
+    examples: |
+      - How do I make pasta?
+      - Tell me a recipe for omelette
+      - Give me instructions to cook pasta
